@@ -16,4 +16,4 @@ This is a system that is intended to be used by a company where they are require
 Getting the API data on the frontend using React. Filter feature. Sort feature.
 
 ![App ScreenShot](public/screenemp.png)
-![Filter Image](public/screenemp.pngg)
+![Filter Image](public/filteremp.png)
